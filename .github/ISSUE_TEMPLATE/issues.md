@@ -1,3 +1,12 @@
+---
+name: 项目提案模版
+about: 项目提案模版
+title: "[项目提案] XXXX "
+labels: ''
+assignees: ''
+
+---
+
 # 项目提案模版
 
 ## 项目背景
